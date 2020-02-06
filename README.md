@@ -1,2 +1,3 @@
-# probinet_moment_app
-probinet, moment, app
+# Moment SNS App created by probinet.
+
+SNS Service
